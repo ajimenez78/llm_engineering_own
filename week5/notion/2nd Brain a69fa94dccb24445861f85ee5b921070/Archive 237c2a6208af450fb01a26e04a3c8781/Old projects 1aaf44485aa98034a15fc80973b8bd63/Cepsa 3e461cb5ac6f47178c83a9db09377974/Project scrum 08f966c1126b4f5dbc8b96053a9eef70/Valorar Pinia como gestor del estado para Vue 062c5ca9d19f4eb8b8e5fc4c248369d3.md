@@ -1,0 +1,1 @@
+# Valorar Pinia como gestor del estado para Vue

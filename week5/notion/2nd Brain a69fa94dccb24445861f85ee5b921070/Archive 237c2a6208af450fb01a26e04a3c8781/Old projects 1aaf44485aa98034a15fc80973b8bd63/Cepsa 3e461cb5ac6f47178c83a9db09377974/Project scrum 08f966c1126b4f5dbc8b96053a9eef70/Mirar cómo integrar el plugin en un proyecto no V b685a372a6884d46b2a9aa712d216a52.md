@@ -1,0 +1,1 @@
+# Mirar cómo integrar el plugin en un proyecto no VUE

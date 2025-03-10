@@ -1,0 +1,1 @@
+# Instalar/configurar impresora en Ubuntu

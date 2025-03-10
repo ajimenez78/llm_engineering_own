@@ -1,0 +1,3 @@
+# Aplicaciones de AI
+
+[https://twitter.com/javilop/status/1629876030088564736?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^1629876030088564736|twgr^dff46565820d834c093bebf3651eb6418a8e49b6|twcon^s1_&ref_url=https://publish.twitter.com/?query=https3A2F2Ftwitter.com2Fjavilop2Fstatus2F1629876030088564736widget=Tweet](https://twitter.com/javilop/status/1629876030088564736?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^1629876030088564736|twgr^dff46565820d834c093bebf3651eb6418a8e49b6|twcon^s1_&ref_url=https://publish.twitter.com/?query=https3A2F2Ftwitter.com2Fjavilop2Fstatus2F1629876030088564736widget=Tweet)

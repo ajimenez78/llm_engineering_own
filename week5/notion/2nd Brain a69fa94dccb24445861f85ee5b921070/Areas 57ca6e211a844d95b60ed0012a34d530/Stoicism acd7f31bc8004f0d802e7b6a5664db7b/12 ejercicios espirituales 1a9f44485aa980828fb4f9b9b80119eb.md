@@ -1,0 +1,18 @@
+# 12 ejercicios espirituales
+
+![](https://theobjective.com/wp-content/uploads/2022/06/044531/FELICIDAD-1024x683.jpg)
+
+Para lograr ser virtuosos, Pigliucci propone varios ejercicios y ofrece consejos para aplicar los preceptos del estoicisimo al siglo XXI:
+
+1. **Examinar nuestras impresiones**. Los eventos, las acciones, las buenas o malas palabras siempre van a estar ahí, pero sí podemos cambiar es nuestra percepción sobre ellas. A cada reacción sobre un evento externo, debemos repetirnos: «Solo eres una impresión, no la fuente de la impresión».
+2. **Recordar la fugacidad de las cosas**, tanto de lo material que nos rodea como de los humanos y seres vivos que lo hacen. «Cuando le des un beso a tu esposa o hijo, repite: ‘Estoy besando a un mortal’. Así no te sentirás tan desconcertado cuando te los arrebaten». «Si te gusta la porcelana, por ejemplo, di: ‘Me gusta una pieza de porcelana’. Cuando se rompa, no te sentirás desconcertado».
+3. **La cláusula de reserva.** Anticiparnos a las cosas (malas) que nos puedan pasar. Hemos de anticiparnos a los hechos y ser conscientes de que nos pueden salir mal. «Siempre que planifiques una acción, practica mentalmente lo que el plan implica».
+4. **¿Cómo puedu usar la virtud aquí y ahora?.** Autocontrol. Para cada desafío, recuerda los recursos que tienes dentro de ti para enfrentarte a él. (…) Enfrentando al dolor, descubrirás el poder de aguante. Si te insultan, descubrirás la impaciencia. A su debido tiempo, crecerás hasta confiar en que no hay una sola impresión para la que no tengas los medios morales para tolerarla».
+5. **Hacer una pausa y respirar hondo**. Si alguien te provoca y tú caes ante esa provocación, sé consciente de que en ese momento pasas a ser cómplice del provocador. «Esa es la razón por la que resulta esencial que no respondamos impulsivamente a las impresiones; tómate un momento antes de reaccionar y descubrirás que es más fácil mantener el control».
+6. **Alterizar**. Sentir solidaridad por el resto de humanos: «Sentir por el infortunio de todo el mundo el mismo nivel de dolor y empatía que sentimos por el propio».
+7. **Hablar poco y bien**: hemos de evitar tener conversaciones vacías y evitar hacer juicios de valor, así como caer en comentar cotilleos o chismes, ya que nada de ello nos lleva a ningún sitio.
+8. **Elegir bien la compañía**. Prestar atención con quién pasas tu tiempo y por qué.
+9. **Responder a los insultos con humor**. «Si te enteras de que alguien está hablando mal de ti, no intentes defenderte de los rumores; en su lugar, responde: ‘Sí, y él no sabe ni la mitad, porque podría haber dicho más’».
+10. **No hablar demasiado de nosotros mismos**. «Cuando hables, no te detengas demasiado en tus logros o aventuras. Solo porque te guste contar tus gestas no significa que los demás obtengan el mismo placer de escucharlas».
+11. **Hablar sin juzgar**. Como no conocemos la realidad ni las razones de nadie, hemos de evitar emitir juicios de valor en base a nuestra mera impresión u observación: «Algunos se bañan con prisa; no digas que se bañan mal, sino con prisa. Alguien bebe mucho vino; no digas que bebe mal, sino mucho. Mientras no conozcas sus razones, ¿cómo puedes saber que sus acciones son malas? Esto evitará que percibas una cosa con claridad, pero después expreses algo diferente».
+12. **Reflexionar sobre nuestro día**. «No admitas el sueño en tus tiernos párpados hasta que hayas evaluado cada uno de los hechos del día: ¿cómo he errado, qué he hecho o dejado de hacer? Empieza así y revisa tus actos y entonces por los actos infames amonéstate, por los buenos alégrate».

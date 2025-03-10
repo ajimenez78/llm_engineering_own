@@ -1,0 +1,13 @@
+# Resources
+
+[Moda](Resources%20c62a47f2ca734a71b683288b3a866fda/Moda%203fd5db3f7b1c42e09c32a72690b3e33e.md)
+
+[Memorization](Resources%20c62a47f2ca734a71b683288b3a866fda/Memorization%20f1326d8761cd4119a2e587b990366193.md)
+
+[Reflexiones](Resources%20c62a47f2ca734a71b683288b3a866fda/Reflexiones%201a6f44485aa980e881e3c174903c8126.md)
+
+[Someday](Resources%20c62a47f2ca734a71b683288b3a866fda/Someday%2022a562e86b6d46c0917d777f50bef319.md)
+
+[Journal](Resources%20c62a47f2ca734a71b683288b3a866fda/Journal%20c25d038809c344eb9b9cc212f7ca1d41.csv)
+
+[Personal Home](Resources%20c62a47f2ca734a71b683288b3a866fda/Personal%20Home%20d092bc22db784de1a19355bec2f440d6.md)

@@ -1,0 +1,12 @@
+﻿Name,Assignee,Attachment,Date Created,Due Date,Estimación,Priority,Project,Status
+Meter la autenticación en survey,,,"May 17, 2022 10:16 AM",,,,,Done
+Diseño del API de encuestas,,,"May 20, 2022 1:50 PM",,5,,,Done
+Recuperar SurveyJS Editor,,,"July 12, 2022 8:57 PM",,,,,Done
+Autenticación frente a Firebase de las encuestas,,,"May 17, 2022 10:24 AM",,3,,,Done
+Autenticación frente a la hoja de cálculo de las encuestas,,,"May 17, 2022 10:24 AM",,3,,,Done
+Adaptación survey-form para que use el survey-server,,,"May 17, 2022 4:49 PM",,3,,,Done
+Crear la estructura del proyecto de visualizalización de encuestas,,,"May 17, 2022 10:23 AM",,1,,,Done
+Autenticación servicio encuestas,,,"May 17, 2022 4:47 PM",,3,,,In Progress
+Completar la acción de login en el server API de nest,,,"June 1, 2022 6:22 PM",,,,,In Progress
+Modelo de acceso a datos de Firebase por los servicios de encuestas (creación / formulario),,,"May 17, 2022 4:51 PM",,5,,,To Do
+Completar SurveyJS,,,"July 12, 2022 8:57 PM",,,,,To Do

@@ -1,0 +1,1 @@
+# Me encuentro muy mal y el tema del dolor es muy raro

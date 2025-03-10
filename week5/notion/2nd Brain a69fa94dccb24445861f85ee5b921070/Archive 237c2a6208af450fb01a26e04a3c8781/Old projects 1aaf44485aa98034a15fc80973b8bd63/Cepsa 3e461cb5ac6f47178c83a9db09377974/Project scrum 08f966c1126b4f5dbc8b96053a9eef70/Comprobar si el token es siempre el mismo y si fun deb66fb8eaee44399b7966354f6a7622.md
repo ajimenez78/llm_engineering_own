@@ -1,0 +1,1 @@
+# Comprobar si el token es siempre el mismo y si funciona sin conexión

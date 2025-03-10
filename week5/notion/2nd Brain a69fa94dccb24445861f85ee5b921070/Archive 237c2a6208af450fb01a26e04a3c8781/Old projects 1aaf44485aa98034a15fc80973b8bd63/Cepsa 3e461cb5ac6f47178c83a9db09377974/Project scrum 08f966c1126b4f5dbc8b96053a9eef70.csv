@@ -1,0 +1,27 @@
+﻿Name,Assign,Status
+Pruebas en dispositivo,,Completed
+Mirar si puedo escuchar eventos del navegador (cuando la app pasa a primer plano),,Completed
+Hacer tutorial de Qasar,,Completed
+Conseguir hacer un Login MSAL desde VUE,,Completed
+Mirar como se crea un paquete node,,Completed
+"Definición de cómo sería el plugin msal, basándome en cepsa-auth",,Completed
+Estudiar como funcionan los Plugins en Vue,,Completed
+Aprender Vue más en profundidad,,
+Valorar Pinia como gestor del estado para Vue,,
+Mirar soluciones de arquitectura alrededor de Vue,,
+Mirar cómo integrar el plugin en un proyecto no VUE,,
+Usar JFROG para el tema de la librería cepsa-auth,,
+Profiling de tiempos login,,
+Comprobar si el token es siempre el mismo y si funciona sin conexión,,
+Epic: Funcionamiento del modo offline,,
+Ser capaz de desplegar por mí mismo,,
+"Cepsa wrapper for the MSAL data types (account, status…)",,
+Definición arquitectura,,Not started
+Inyección de dependencias del URLResolver para test,,Not started
+Documentar uso de Quasar,,Not started
+Conclusiones Quasar,,Not started
+Documentar lo que llevo mirado de Quasar,,In progress
+PWA,,In progress
+Crypto,,Not started
+Realizar los TODO’s de la documentación de arquitectura,,Not started
+"Mirar si hay algo parecido a Crashlitics ",,Not started

@@ -1,0 +1,1 @@
+# Cepsa wrapper for the MSAL data types (account, status…)
