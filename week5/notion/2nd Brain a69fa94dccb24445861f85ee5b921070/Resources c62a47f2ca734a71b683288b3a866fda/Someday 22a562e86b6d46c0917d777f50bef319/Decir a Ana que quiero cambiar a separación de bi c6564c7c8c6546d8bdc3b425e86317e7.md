@@ -1,0 +1,1 @@
+# Decir a Ana que quiero cambiar a separación de bienes a la próxima
