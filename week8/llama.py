@@ -4,7 +4,7 @@ from modal import App, Volume, Image
 # Setup
 
 app = modal.App("llama")
-image = Image.debian_slim().pip_install("torch", "transformers", "bitsandbytes", "accelerate")
+image = Image.debian_slim().pip_install("torch", "transformers", "bitsandbytes", "accelerate").add_local_python_source("hello")
 secrets = [modal.Secret.from_name("hf-secret")]
 GPU = "T4"
 MODEL_NAME = "meta-llama/Meta-Llama-3.1-8B" # "google/gemma-2-2b"

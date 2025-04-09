@@ -19,7 +19,7 @@ def hello() -> str:
 
 # New - added thanks to student Tue H.!
 
-@app.function(image=image, region="eu")
+@app.function(image=image, region="eu-west-1")
 def hello_europe() -> str:
     import requests
     
