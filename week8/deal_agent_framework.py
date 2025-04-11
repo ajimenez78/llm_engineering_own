@@ -62,7 +62,7 @@ class DealAgentFramework:
         return []
 
     def write_memory(self) -> None:
-        data = [opportunity.dict() for opportunity in self.memory]
+        data = [opportunity.model_dump() for opportunity in self.memory]
         with open(self.MEMORY_FILENAME, "w") as file:
             json.dump(data, file, indent=2)
 

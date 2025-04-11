@@ -16,5 +16,23 @@
     },
     "estimate": 930.8824204895075,
     "discount": 225.88242048950747
+  },
+  {
+    "deal": {
+      "product_description": "The Refurb Dell Precision 3561 is a powerful laptop designed for professionals requiring top performance. It comes equipped with an 11th Generation Intel Core i7-11850H 2.5GHz Tiger Lake 8-core CPU, 16GB RAM, and a 512GB SSD, ensuring smooth multitasking and fast data access. The 15.6\" 1080p display provides clear visual quality, ideal for graphic design or data analysis. Additionally, it includes a dedicated Nvidia RTX Quadro T600 graphics card for enhanced graphics performance, making it a suitable choice for creative professionals.",
+      "price": 539.0,
+      "url": "https://www.dealnews.com/products/Dell/Dell-Precision-3561-11-th-Gen-i7-Laptop-w-Nvidia-RTX-T600/488774.html?iref=rss-c39"
+    },
+    "estimate": 997.1323676121356,
+    "discount": 458.13236761213557
+  },
+  {
+    "deal": {
+      "product_description": "The Samsung Odyssey Neo G7 43\" 4K 144Hz Mini-LED FreeSync Smart Monitor combines stunning visuals with high performance. Offering a native 3840x2160 resolution and a swift 144Hz refresh rate, this monitor is perfect for gaming and multitasking. With smart TV apps and multiple connectivity options, it's not just functional; it elevates your entertainment setup as well.",
+      "price": 570.0,
+      "url": "https://www.dealnews.com/products/Samsung/Samsung-Odyssey-Neo-G7-43-4-K-144-Hz-Mini-LED-Free-Sync-Smart-Monitor/459768.html?iref=rss-f1912"
+    },
+    "estimate": 745.7757848634307,
+    "discount": 175.77578486343066
   }
 ]
